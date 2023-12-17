@@ -11,4 +11,4 @@ JavaScript: A função toggleCard alterna a classe transparent no card, permitin
 </lo>
 <br>
 
-<img src=""/>
+<img src="https://github.com/Josetelma/Cards/blob/main/assets/Capturar.JPG?raw=true"/>
